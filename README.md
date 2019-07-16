@@ -16,6 +16,6 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `Prettier` to automatically format code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-`ESLint` is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) Additional config here. [Link &arr;](https://github.com/ohsenyth/eslint-config-standard)
+`ESLint` is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) Additional config here.[Link &rarr;](https://github.com/ohsenyth/eslint-config-standard)
 
 `Bracket Pair Colorizer` to allow matching brackets to be identified with colours. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
