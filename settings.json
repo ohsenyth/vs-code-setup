@@ -1,0 +1,18 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "go.autocompleteUnimportedPackages": true,
+    "eslint.enable": true,
+    "eslint.validate": [
+        "javascript", 
+        "javascriptreact", 
+        {
+            "language": "html", 
+            "autoFix": true
+        }
+    ],
+    "bracketPairColorizer.forceUniqueOpeningColor": true
+}
