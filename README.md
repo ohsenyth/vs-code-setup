@@ -18,6 +18,8 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `ESLint` is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) Additional config [here](https://github.com/ohsenyth/eslint-config-standard).
 
+`Flow Language Support` adds Flow support for VS Code.  Flow is a static type checker, designed to find type errors in JavaScript programs. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode).
+
 `Bracket Pair Colorizer` to allow matching brackets to be identified with colours. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 `Go` adds language support for the Go language. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
