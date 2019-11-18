@@ -23,3 +23,5 @@ For each of the extensions, read the overview page in order to learn how to use 
 `Bracket Pair Colorizer` to allow matching brackets to be identified with colours. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 `Go` adds language support for the Go language. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
+
+`GitLens` helps you to visualize code authorship at a glance. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
